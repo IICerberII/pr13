@@ -1,0 +1,30 @@
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Альберт\Desktop\практики Беляева\pr6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Альберт\source\repos\practice_13\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
